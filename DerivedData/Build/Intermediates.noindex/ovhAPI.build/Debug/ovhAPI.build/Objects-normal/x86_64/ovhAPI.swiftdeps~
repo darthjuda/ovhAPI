@@ -1,0 +1,21 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ovhAPI"
+provides-nominal:
+- "6ovhAPIAAV"
+provides-member:
+- ["6ovhAPIAAV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "StringLiteralType"
+- "ovhAPI"
+depends-member:
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["6ovhAPIAAV", "init"]
+- ["6ovhAPIAAV", "text"]
+depends-nominal:
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "6ovhAPIAAV"
+depends-dynamic-lookup:
+depends-external:
+interface-hash: "894a85b4879f523b1045f74870805864"

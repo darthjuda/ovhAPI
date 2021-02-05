@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "a65e10873a407e0292b05857903d0254"
+build_time: [1612444835, 229231000]
+inputs:
+  "/Users/darthjuda/Documents/snippets/swiftPackage/ovhAPI/Tests/ovhAPITests/XCTestManifests.swift": [1612444817, 369273144]
+  "/Users/darthjuda/Documents/snippets/swiftPackage/ovhAPI/Tests/ovhAPITests/ovhAPITests.swift": [1612444817, 369131346]

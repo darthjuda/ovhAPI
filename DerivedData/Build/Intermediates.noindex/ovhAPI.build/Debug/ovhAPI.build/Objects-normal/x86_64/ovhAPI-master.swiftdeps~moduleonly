@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "e81b3bce26d563eeda31bb3b6d76fefe"
+build_time: [1612449049, 80309000]
+inputs:
+  "/Users/darthjuda/Documents/snippets/swiftPackage/ovhAPI/Sources/ovhAPI/Network.swift": [1612448193, 806569361]
+  "/Users/darthjuda/Documents/snippets/swiftPackage/ovhAPI/Sources/ovhAPI/ovhAPI.swift": [1612446004, 790103819]

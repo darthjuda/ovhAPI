@@ -5,7 +5,92 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>03258945-C4B2-4DAC-BE62-70191D44B2C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>03258945-C4B2-4DAC-BE62-70191D44B2C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>ovhAPI-cpyuqwgusajagofwibstismhlxmc</string>
+			<key>timeStartedRecording</key>
+			<real>634141849.08155096</real>
+			<key>timeStoppedRecording</key>
+			<real>634141849.45853603</real>
+			<key>title</key>
+			<string>Build target ovhAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>03258945-C4B2-4DAC-BE62-70191D44B2C3</string>
+		</dict>
+		<key>7C87F319-EC6D-4C44-9B4B-86C859409B1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>7C87F319-EC6D-4C44-9B4B-86C859409B1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>CryptoSwift-dvcmqxslbrjptjcbavtudhaawczb</string>
+			<key>timeStartedRecording</key>
+			<real>634141839.82814801</real>
+			<key>timeStoppedRecording</key>
+			<real>634141849.20173001</real>
+			<key>title</key>
+			<string>Build target CryptoSwift</string>
+			<key>uniqueIdentifier</key>
+			<string>7C87F319-EC6D-4C44-9B4B-86C859409B1B</string>
+		</dict>
+		<key>8C41B698-071E-419B-835C-392B4FFE630B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>8C41B698-071E-419B-835C-392B4FFE630B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>ovhAPITests-cpyuqwgusajagofwibstismhlxmc</string>
+			<key>timeStartedRecording</key>
+			<real>634141849.43703103</real>
+			<key>timeStoppedRecording</key>
+			<real>634141849.82143998</real>
+			<key>title</key>
+			<string>Build target ovhAPITests</string>
+			<key>uniqueIdentifier</key>
+			<string>8C41B698-071E-419B-835C-392B4FFE630B</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

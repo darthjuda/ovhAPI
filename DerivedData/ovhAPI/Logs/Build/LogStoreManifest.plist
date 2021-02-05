@@ -5,6 +5,143 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>182A9769-6B8C-41B6-B63E-B5B1CDA5DF38</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>182A9769-6B8C-41B6-B63E-B5B1CDA5DF38.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ovhAPI</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ovhAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ovhAPI</string>
+			<key>timeStartedRecording</key>
+			<real>634137712.97206604</real>
+			<key>timeStoppedRecording</key>
+			<real>634137713.90756595</real>
+			<key>title</key>
+			<string>Build ovhAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>182A9769-6B8C-41B6-B63E-B5B1CDA5DF38</string>
+		</dict>
+		<key>85A49090-367F-4375-950C-2A7DD96D1CA9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>85A49090-367F-4375-950C-2A7DD96D1CA9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ovhAPI</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ovhAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ovhAPI</string>
+			<key>timeStartedRecording</key>
+			<real>634141838.794801</real>
+			<key>timeStoppedRecording</key>
+			<real>634141849.83083498</real>
+			<key>title</key>
+			<string>Build ovhAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>85A49090-367F-4375-950C-2A7DD96D1CA9</string>
+		</dict>
+		<key>9252EE02-23FA-4519-9C95-CA82F0EDC5A0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9252EE02-23FA-4519-9C95-CA82F0EDC5A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ovhAPI</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ovhAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ovhAPI</string>
+			<key>timeStartedRecording</key>
+			<real>634141765.82051694</real>
+			<key>timeStoppedRecording</key>
+			<real>634141765.86411905</real>
+			<key>title</key>
+			<string>Build ovhAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>9252EE02-23FA-4519-9C95-CA82F0EDC5A0</string>
+		</dict>
+		<key>AC5B84AB-A3F8-4592-BF9F-A9FA6A977EA5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AC5B84AB-A3F8-4592-BF9F-A9FA6A977EA5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ovhAPI</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ovhAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ovhAPI</string>
+			<key>timeStartedRecording</key>
+			<real>634141678.12925601</real>
+			<key>timeStoppedRecording</key>
+			<real>634141678.22652805</real>
+			<key>title</key>
+			<string>Build ovhAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>AC5B84AB-A3F8-4592-BF9F-A9FA6A977EA5</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
